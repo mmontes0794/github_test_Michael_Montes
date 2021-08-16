@@ -12,3 +12,5 @@ nacimiento = fecha - edad
 print ("Ya lo tengo naciste en el año   " + str(nacimiento))
 print()
 print("Versión beta de programa")
+print()
+print("Programa creado por Michael Montes")
